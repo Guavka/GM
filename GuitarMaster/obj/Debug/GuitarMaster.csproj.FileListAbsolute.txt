@@ -1,0 +1,48 @@
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.csproj.ResolveComReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\bin\Debug\GuitarMaster.exe
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\bin\Debug\GuitarMaster.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.fMain.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.fLesson.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.fSong.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.csproj.GenerateResource.Cache
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.exe
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less1.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less2.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less3.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less4.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less5.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less6.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less7.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less8.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less9.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less0.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\Interop.MSXML2.dll
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\bin\Debug\GuitarMaster.exe.config
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.lessons.VidPL.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\bin\Debug\GuitarMaster.exe.config
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\Interop.MSXML2.dll
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.csproj.ResolveComReference.cache
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.exe
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.pdb
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.fMain.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less2.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less3.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less4.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less5.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less6.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less7.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less8.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less9.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less1.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.less0.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.lessons.VidPL.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.fLesson.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.fSong.resources
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\bin\Debug\GuitarMaster.exe
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\bin\Debug\GuitarMaster.pdb
+C:\Users\Алексей\Desktop\учеба\курсач\GuitarMaster\GuitarMaster\obj\Debug\GuitarMaster.Properties.Resources.resources
